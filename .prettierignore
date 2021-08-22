@@ -1,0 +1,5 @@
+output.css
+target/
+src/java/
+src/resources/
+/*.js
